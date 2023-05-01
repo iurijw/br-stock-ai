@@ -6,6 +6,8 @@
 # Brazilian Stock AI (br-stock-ai)
 A script that captures financial data of Brazilian stocks from the "StatusInvest" website, including Balance Sheet, Cash Flow and Income Statement, and uses OpenAI's artificial intelligence to generate reports of them.
 
+> For PT-BR search tagging: Script que captura dados financeiros de ações brasileiras do site "StatusInvest", incluindo Balanço Patrimonial, Fluxo de Caixa e Demonstração de Resultado, e utiliza a inteligência artificial da OpenAI para gerar relatórios dos mesmos.
+
 ## Prerequisites
 - Python 3.6 or higher, [here](https://www.python.org/downloads/)
 - OpenAI API key, [here](https://openai.com/)
