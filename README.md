@@ -11,6 +11,7 @@ A script that captures financial data of Brazilian stocks from the "StatusInvest
 ## Prerequisites
 - Python 3.6 or higher, [here](https://www.python.org/downloads/)
 - OpenAI API key, [here](https://openai.com/)
+- Firefox, [here](https://www.mozilla.org/en-US/firefox/new/)
 - Git 2.40.1 (optional), [here](https://git-scm.com/downloads)
 
 ## Windows Tutorial
